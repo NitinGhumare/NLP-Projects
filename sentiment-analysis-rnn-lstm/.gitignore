@@ -1,0 +1,32 @@
+artifacts/glove.6B.100d.txt
+artifacts/sentiment_lstm.h5
+artifacts/sentiment_lstm.keras
+artifacts/tokenizer.pkl
+data/sentiment_data_large.csv
+artifacts/glove.6B.100d.txt
+artifacts/glove.6B.100d.txt
+artifacts/glove.6B.100d.txt
+
+# Ignore artifacts folder and large files
+/artifacts/
+*.h5
+*.keras
+glove.6B.*.txt
+tokenizer.pkl
+
+
+# Ignore artifacts and big files
+/artifacts/
+*.h5
+*.keras
+glove.6B.*.txt
+tokenizer.pkl
+
+
+# ignore artifacts and big files
+/artifacts/
+*.h5
+*.keras
+glove.6B.*.txt
+tokenizer.pkl
+
